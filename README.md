@@ -1,13 +1,13 @@
 # Password-Generator
 ## Description
-Take a look at my personal portfolio for some information about my personal life as well as my work projects. In this repository, you will find my code used to create and style this website. From flexbox and media quaries to semantic elements, you are sure to find my understanding of HTML and CSS.
+In todays world of "online everything" it is important to stay 100% safe. From online banking, shopping, grocery shopping, jobs, etc. hackers are on the prowl looking for their next vulnerable victim. With malware, ransomware, and viruses flooding systems, most of these are cause by unsecure passwords. In the last couple years, massive fortune 500 companies, oil pipelines, MSP companies, and even the Pentagon have had issues with hackers due to simple passwords. NO MORE!! Introducing the random password generator, there is no excuse to having an unsafe password. 
 
-For more information regarding this portfolio, please feel free to check out the "Contact" section. I believe in fast responses so you'll hear back from me quick! 
+Try it out for yourself. Hit generate and follow the prompts in order to get your secure password. 
 
 <br></br>
 
 ## Screenshot
-![Screenshot of what the webpage looks like](./img/screenshot.png)
+![Screenshot of what the webpage looks like](./img/Screenshot.Password-Generator.png)
 
 <br></br>
 
