@@ -89,8 +89,8 @@ function generatePassword() {
   var password = [];
 // Loop to give random password
   for (var i = 0; i < lengthValue; i++) {
-  var pickOptions = options[Math.floor(Math.random() * options.length)];
-  password.push(pickOptions);
+  var chooseOptions = options[Math.floor(Math.random() * options.length)];
+  password.push(chooseOptions);
   }
 
   var ps = password.join("");
