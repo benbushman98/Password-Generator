@@ -25,7 +25,7 @@ function generatePassword() {
   var options;
   lengthValue =  (prompt("Specify the length of your password: (Between 8-128)"));
   if (lengthValue < 8 || lengthValue > 128){
-    lengthValue = alert("You must choose between 8 and 128");
+    lengthValue = alert("You must choose a number between 8 and 128");
   } else {
     confirmSpecial = confirm("Click OK to add Special Characters to your password.")
     confirmNumber = confirm("Click OK to add Numbers to your Password.")

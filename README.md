@@ -7,7 +7,7 @@ Try it out for yourself. Hit generate and follow the prompts in order to get you
 <br></br>
 
 ## Screenshot
-![Screenshot of what the webpage looks like](./img/Screenshot.Password-Generator.png)
+![Screenshot of what the webpage looks like](./assets/img/Screenshot.Password-Generator.png)
 
 <br></br>
 
